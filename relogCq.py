@@ -1,3 +1,5 @@
+#Owner
+#Alexei Alves 
 from tkinter import *
 from functools import partial
 import time
